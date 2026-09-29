@@ -1,0 +1,17 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    width: 600px;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 450px;
+}
